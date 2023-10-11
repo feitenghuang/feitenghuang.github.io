@@ -14,10 +14,12 @@ I am currently a Ph.D. candidate in Supply Chain Management at C. T. Bauer Colle
 
 Education
 ======
+Ph.D.,  Supply Chain Management, University of Houston, 2026
 
 
 Research Interests
 ======
-
+Behavioral Operations Management
+Technology assisted decision-making
 
 
