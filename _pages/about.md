@@ -14,7 +14,9 @@ I am currently a Ph.D. candidate in Supply Chain Management at C. T. Bauer Colle
 
 Education
 ======
-Ph.D.,  Supply Chain Management, University of Houston, 2026
+* Ph.D.,  Supply Chain Management, University of Houston, 2026 (expected)
+* M.S., Management Science and Engineering, Beijing Foreign Studies University, 2021
+* B.S., Information Systems and Information Management, Beijing Foreign Studies University, 2018
 
 
 Research Interests
