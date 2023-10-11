@@ -87,7 +87,7 @@ author:
   employer         :  "C. T. Bauer College of Business, University of Houston"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : fhuang4@cougarnet.uh.edu
+  email            : "fhuang4@cougarnet.uh.edu" fhuang4@cougarnet.uh.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
