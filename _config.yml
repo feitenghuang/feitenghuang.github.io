@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  #"google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Ph.D. Candidate in Supply Chain Management"
   location         : "Houston, TX 77054"
-  employer         :  "C. T. Bauer College of Business,\n University of Houston"
+  employer         :  #"C. T. Bauer College of Business, University of Houston"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :  fhuang4@cougarnet.uh.edu "fhuang4@cougarnet.uh.edu"
