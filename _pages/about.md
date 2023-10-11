@@ -21,7 +21,7 @@ Education
 
 Research Interests
 ======
-Behavioral Operations Management
-Technology assisted decision-making
+* Behavioral Operations Management
+* Technology assisted decision-making
 
 
