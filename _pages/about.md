@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a Ph.D. candidate in Supply Chain Management at C. T. Bauer College of Business, University of Houston.
 
-[Download my CV here](http://academicpages.github.io/files/CV-FEITENG HUANG.pdf)
+[Download my CV here](http://feitenghuang.github.io/files/CV-FEITENG HUANG.pdf)
 
 Education
 ======
