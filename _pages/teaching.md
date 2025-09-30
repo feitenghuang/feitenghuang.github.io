@@ -14,3 +14,11 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+Undergraduate Courses
+======
+__Supply Chain Fundamentals__, University of Houston, 2025
+-Introductory course to supply chain topics, including planning, manufacturing, logistics, etc.
+-evaluation: 4.59/5
+
