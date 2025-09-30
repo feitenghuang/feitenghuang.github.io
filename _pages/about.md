@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate in Supply Chain Management at C. T. Bauer College of Business, University of Houston.
+I am currently a Ph.D. candidate in Supply Chain Management, Department of Decisions and Information Sciences, at C. T. Bauer College of Business, University of Houston.
 
+---
 [Download my CV here](http://feitenghuang.github.io/files/CV-FEITENG HUANG.pdf)
+---
 
 Education
 ======
-* Ph.D.,  Supply Chain Management, University of Houston, 2026 (expected)
+* Ph.D., Supply Chain Management, University of Houston
 * M.S., Management Science and Engineering, Beijing Foreign Studies University, 2021
 * B.S., Information Systems and Information Management, Beijing Foreign Studies University, 2018
 
@@ -22,6 +24,6 @@ Education
 Research Interests
 ======
 * Behavioral Operations Management
-* Technology assisted decision-making
+* Algorithmic decision-making
 
 
