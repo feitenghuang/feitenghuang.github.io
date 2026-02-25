@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Feiteng Huang (黄飞腾)"
+title                    : "Feiteng Huang"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Feiteng Huang"
+  name             : "Feiteng Huang  (黄飞腾)"
   avatar           : "office1.jpg"
   bio              : "University of Houston" # Ph.D. Candidate in Supply Chain Management, Department of Decision and Information Sciences, 
   location         : "Houston, TX, USA"
